@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Hallal— User Friendly E-Commerce</title>
+<title>nexus— User Friendly E-Commerce</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
@@ -230,7 +230,7 @@ footer{padding:42px 0 25px;border-top:1px solid var(--line);margin-top:10px}
   <div><h4>Support</h4><ul><li><a href="#">Help Center</a></li><li><a href="#">Shipping</a></li><li><a href="#">Returns</a></li></ul></div>
   <div><h4>Legal</h4><ul><li><a href="#">Privacy</a></li><li><a href="#">Terms</a></li><li><a href="#">Cookies</a></li></ul></div>
  </div>
- <div class="copyright">© <span id="year"></span> NexusShop. All rights reserved.</div>
+ <div class="copyright">© <span id="year"></span> HallalShop. All rights reserved.</div>
 </div></footer>
 <div class="toast" id="toast"></div>
 
