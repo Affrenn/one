@@ -179,7 +179,7 @@ footer{padding:42px 0 25px;border-top:1px solid var(--line);margin-top:10px}
 <main id="home">
 <section class="hero">
  <div class="container hero-content">
-  <div class="pill"><i class="fa-solid fa-sparkles"></i> New Hijab Collection 2026 october</div>
+  <div class="pill"><i class="fa-solid fa-sparkles"></i> New Hijab Collection 2026 october for new hijabie welcome !!!!</div>
   <h1>Discover Premium Essentials</h1>
   <p>Shop curated fashion, technology and everyday accessories with a simple, friendly shopping experience.</p>
   <div class="actions"><button class="btn btn-primary" id="shopNow">Shop Now <i class="fa-solid fa-arrow-right"></i></button><button class="btn btn-light" id="dealNow">Explore Deals <i class="fa-solid fa-bolt"></i></button></div>
