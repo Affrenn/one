@@ -1139,7 +1139,7 @@
                     <li><a href="#" class="active"><i class="fas fa-home"></i> Home</a></li>
                     <li><a href="#categories"><i class="fas fa-th-large"></i> Categories</a></li>
                     <li><a href="#products"><i class="fas fa-fire"></i> Trending</a></li>
-                    <li><a href="#deals"><i class="fas fa-tag"></i> Deals</a></li>
+                    <li><a href="#deals"><em class="fas fa-tag"></em> Deals</a></li>
                     <li><a href="#testimonials"><i class="fas fa-star"></i> Reviews</a></li>
                 </ul>
             </nav>
@@ -1155,7 +1155,7 @@
                     <button class="icon-btn" title="Wishlist" aria-label="Wishlist"><i class="far fa-heart"></i></button>
                     <div class="cart-wrap">
                         <button class="icon-btn" id="cartBtn" title="Cart" aria-label="Cart">
-                            <i class="fas fa-shopping-bag"></i>
+                            <em class="fas fa-shopping-bag"></em>
                         </button>
                         <span class="cart-count" id="cartCount">0</span>
                     </div>
